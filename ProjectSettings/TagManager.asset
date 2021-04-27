@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Collectable
+  - Virtual Camera
+  - Consumable
+  - npc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Block
+  - Consumables
+  - Collectable
+  - Enemy
+  - Ammo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Piso
+    uniqueID: 3613364791
+    locked: 0
+  - name: Objects
+    uniqueID: 3994209413
+    locked: 0
+  - name: Water
+    uniqueID: 4025331407
+    locked: 0
+  - name: Characters
+    uniqueID: 2811578731
+    locked: 0
